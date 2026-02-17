@@ -1,4 +1,5 @@
 **Fine-scale Analysis of Bowhead Whale Songs**
+
 MATLAB and R code used in the study titled: Fine-scale quantitative analysis of bowhead whale (Balaena mysticetus) song shows varying stability of song types. MATLAB code written by Luke Rendell and R code written by Seth Harris.
 
 **GetStartAndEndFrequency.m** extracts the start and end frequency of each song unit. Input needs to be Raven selection table (txt format) with the columns BeginTime_s_, .Time5__s_, EndTime_s_, Time95__s_, LowFreq_Hz_, and HighFreq_Hz_.
