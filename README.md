@@ -1,5 +1,6 @@
 **Fine-scale Analysis of Bowhead Whale Songs**
-----
+
+---
 MATLAB and R code for 'Fine-scale quantitative analysis of bowhead whale (Balaena mysticetus) song shows varying stability of song types'. MATLAB code written by Luke Rendell and R code written by Seth Harris.
 
 ---
